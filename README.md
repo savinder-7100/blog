@@ -63,3 +63,7 @@ Pages with the `gh-pages` branch as Source. Your site should be deployed at
 
 `https://<YOUR_GITHUB_USERNAME>.github.io/<Notion-projec>`.
 
+This site is deployed by using netlify and here's the link 
+
+https://savinderkaurportfolio.netlify.app/
+
